@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import bookList from './bookList.js';
 
 const addBooksLs = (bks) => {

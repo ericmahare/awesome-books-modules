@@ -12,18 +12,18 @@
 - Linter
 
 ## Live Demo
-[View website](https://ericmahare.github.io/awesome-books/)
+[View website](https://ericmahare.github.io/awesome-books-modules/)
 
 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-- copy this link `https://github.com/ericmahare/awesome-books.git`.
+- copy this link `https://github.com/ericmahare/awesome-books-modules.git`.
 - get the directory that you want to clone the repository.
 - open the command prompt in this directory.
-- write `git clone https://github.com/ericmahare/awesome-books.git`.
-- go to the repository folder in your command prompt `cd awesome-books`
+- write `git clone https://github.com/ericmahare/awesome-books-modules.git`.
+- go to the repository folder in your command prompt `cd awesome-books-modules`
 
 ## Authors
 

@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 const result = ` 
 <div class="add-section">
   <div class="underline"></div>

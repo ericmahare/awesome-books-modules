@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import books from './books.js';
 import getBooksLs from './getBookLs.js';
 

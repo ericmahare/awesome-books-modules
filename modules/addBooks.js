@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import addBooksLs from './addBooksLs.js';
 import result from './addPageUi.js';
 import bookList from './bookList.js';

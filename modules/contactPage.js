@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 // get DOM elements
 const titleCont = document.querySelector('.books-title-1');
 const contLink = document.querySelector('#contact');

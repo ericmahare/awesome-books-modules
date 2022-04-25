@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import * as luxon from '../library/luxon.js';
 
 const dateContainer = document.querySelector('.date-container');
